@@ -4,3 +4,7 @@
 logdata
 models
 resimg
+
+build
+dist
+WorkFlow.egg-info
